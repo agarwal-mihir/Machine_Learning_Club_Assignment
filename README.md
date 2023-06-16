@@ -18,3 +18,5 @@ I have used the following resources as reference:
 - Pytorch Documentation
 - ChatGPT (Super Useful!)
 - Pytorch Geometric Documentation
+
+I have tried to write device agnostic codes, so you will not need to change the code.
