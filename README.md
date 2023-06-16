@@ -20,3 +20,5 @@ I have used the following resources as reference:
 - Pytorch Geometric Documentation
 
 I have tried to write device agnostic codes, so you will not need to change the code.
+
+It is a very difficult to include a requirements.txt file, as I have used a huge number of libraries and pytorch_geomtric installation is a bit tricky.
